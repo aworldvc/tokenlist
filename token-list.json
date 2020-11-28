@@ -1,0 +1,29 @@
+{
+  "name": "AWO",
+  "logoURI": "https://www.aworld.vc/logo/120.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "AWO",
+      "awo",
+      "Aworld",
+      "aworld",
+      "yield"
+    ],
+    "timestamp": "2020-11-28T01:41:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x634a7272021ac2d42586dcc00187d82c6f34f110",
+      "name": "Aworld Token",
+      "symbol": "AWO",
+      "decimals": 4,
+      "logoURI": "https://www.aworld.vc/logo/120.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
